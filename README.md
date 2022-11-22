@@ -2,7 +2,7 @@
 
 Software engineering leader in the Boston area. Author of Python Concurrency with Asyncio.
 
-I'm on <a rel="me" href="https://fosstodon.org/@mattfowler">Mastodon</a>
+I'm on <a href="https://fosstodon.org/@mattfowler" rel="me">Mastodon</a>
 
 <!--
 **mattfowler/mattfowler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
